@@ -119,9 +119,12 @@ int main()
     do
     {
         system("cls");
-        cout << "Muhammad Hafizh Dzaki / A11.2021.13370\n\n";
+        cout <<"Fauzan Febryan Tyowarsa\n";
+        cout <<"A11.2021.13255\n";
+        cout <<"43UG1\n";
+        cout <<endl;
         cout << setfill(' ') << setw(51) << "Program Data Paket\n";
-        cout << setfill(' ') << setw(55) << "--------------------------\n";
+        cout << setfill(' ') << setw(55) << "**************************\n";
         cout << setfill(' ') << setw(39) << "MENU UTAMA\n";
         cout << setfill(' ') << setw(43) << "1. Tambah Data\n";
         cout << setfill(' ') << setw(42) << "2. Hapus Data\n";
